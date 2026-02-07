@@ -1,4 +1,4 @@
-3540648970041
+1770660053999
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -62670,6 +62670,13 @@ heatsink
 0
 0
 0
+Imports
+THB001P_CNK
+
+THB001P 
+0
+10
+10
 Inductor_SMD
 L_6.3x6.3_H3
 Choke, SMD, 6.3x6.3mm 3mm height
@@ -106364,17 +106371,3 @@ Varistor VF
 0
 2
 2
-controller
-ESP32-S3-Super-Mini
-Through hole straight pin header, 1x09, 2.54mm pitch, single row
-Through hole pin header THT 1x09 2.54mm single row
-0
-18
-18
-controller
-NodeMCU-32S
-Through hole straight pin header, 1x19, 2.54mm pitch, single row
-Through hole pin header THT 1x19 2.54mm single row
-0
-38
-38
